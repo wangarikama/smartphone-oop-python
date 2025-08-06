@@ -1,4 +1,4 @@
-This project shows how to use object-oriented programming (OOP) in Python by modeling an object — a smartphone.
+This repo contains simple Python projects that demonstrate core OOP (Object-Oriented Programming) concepts like classes, inheritance, encapsulation, and polymorphism.
 
 Files
 # class.py
