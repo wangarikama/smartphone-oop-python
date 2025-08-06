@@ -4,13 +4,18 @@ Files
 # class.py
 Contains the base class Device and the derived class Smartphone with real features like storage, battery, and methods for charging, taking photos, and showing specs.
 
-Concepts Used
-Classes and Objects
+# polymorphism_demo.py
+Shows polymorphism using different vehicle types with a shared move() method that behaves differently in each class.
 
-Constructors (__init__)
+# Concepts Used
+1. Classes and Objects
 
-Inheritance (Smartphone inherits from Device)
+2. Constructors (__init__)
 
-Encapsulation (Private attributes like __battery and __storage)
+3. Inheritance (Smartphone inherits from Device)
 
-Method Overriding
+4. Polymorphism using a shared method (move) across classes
+
+5. Encapsulation (Private attributes like __battery and __storage)
+
+7. Method Overriding
